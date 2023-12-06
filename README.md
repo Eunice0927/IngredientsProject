@@ -32,7 +32,7 @@
 |제목|이미지|이미지2|이미지3|이미지4|
 |:-:|:-:|:-:|:-:|:-:|
 |실행 영상|<img width="210" alt="튜토리얼 영상" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/27222f5f-3832-4fc8-b3e7-3a5b388f1321">|||||
-|스크린샷|<img width="210" alt="tutorial1" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/0b1427a9-249a-4dab-aae2-0d6d881ae443">|<img width="210" alt="tutorial2" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/60721277-b86e-425a-bb01-99f66b75a07b">|<img width="210" alt="tutorial3" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/d1d42c8e-059a-4cd7-8396-0ddfb150a788">|<img width="210" alt="tutorial4" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/d00216b7-4f14-4840-bbcd-425269b79345">|
+|스크린샷|<img width="190" alt="tutorial1" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/0b1427a9-249a-4dab-aae2-0d6d881ae443">|<img width="190" alt="tutorial2" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/60721277-b86e-425a-bb01-99f66b75a07b">|<img width="190" alt="tutorial3" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/d1d42c8e-059a-4cd7-8396-0ddfb150a788">|<img width="190" alt="tutorial4" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/d00216b7-4f14-4840-bbcd-425269b79345">|
 
 ### 기본 홈 화면
 |<img width="210" alt="기본 홈 화면" src="https://github.com/Eunice0927/IngredientsProject/assets/106911494/f52de975-4b85-4029-a5f3-77971cd64883">|
